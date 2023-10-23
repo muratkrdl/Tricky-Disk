@@ -1,6 +1,11 @@
 
 # Tricky Disk
 
+The goal in the game is to hit the green ball.
+
+If the player hits the green ball he earns a point
+
+If the player fails to hit the green ball, the player loses all points and the game starts over
 
 
 # Gameplay
