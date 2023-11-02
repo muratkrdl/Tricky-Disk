@@ -12,7 +12,7 @@ If the player fails to hit the green ball, the player loses all points and the g
 
 <img src="https://github.com/muratkrdl/Tricky-Disk/blob/main/Picture.png" width="450">
 
-<img src="https://github.com/muratkrdl/Tricky-Disk/blob/main/Tricky%20Disk.gif" width="450">
+<img src="https://github.com/muratkrdl/Tricky-Disk/blob/main/Tricky%20Disk.gif" width="auto">
 
 
 ## Authors
